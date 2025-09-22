@@ -1,0 +1,38 @@
+h1 {
+    color: #b69092;
+    font-size: 25px;
+    text-align: left;
+    margin: 10px;
+} 
+h2 {
+    color: #5b6775;
+    font-size: 35px;
+    text-align: left;
+    margin: 1px;
+}
+body {
+    background-color: #a9a9a6;
+    font-family: cursive;
+}
+p {
+    color: #5b6775;
+    font-size: 15px;
+    text-align: left;
+    margin: 15px;
+}   
+ul {
+    color: #5b6775;
+    font-size: 25px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+div {
+    width: 151px; ;
+    height: 150px;
+    background-color: #13d851;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 15px;
+}
